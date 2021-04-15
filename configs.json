@@ -1,6 +1,6 @@
 {
     "activityType": "PLAYING",
-    "token": ,
+    "token": process.env.TOKEN,
     "serverInfo": [
         "193.70.77.3",
         30138
